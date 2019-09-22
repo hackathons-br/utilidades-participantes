@@ -1,2 +1,2 @@
-# utilidades-participantes
-Dicas, serviços, soluções e referências de interesse a partipantes de hackathons.
+# Utilidades para participantes de hackathons
+- [Starter-kits](starter-kits.md): Repositórios com soluções rápidas para iniciar projetos em hackathons.
