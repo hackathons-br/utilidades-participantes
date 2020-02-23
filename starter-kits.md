@@ -4,6 +4,7 @@ São ideais para contextos de rápida entrega.
 Alguns repositórios, além dos starters, contém dicas gerais sobre hackathons.
 
 ## Starters and example apps
+- https://github.com/h5bp/html5-boilerplate
 - https://github.com/danistefanovic/build-your-own-x 
 - https://github.com/sahat/hackathon-starter
 - https://github.com/jetthoughts/vuejs-rails-5-starterkit
