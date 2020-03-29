@@ -12,6 +12,7 @@ Alguns repositórios, além dos starters, contém dicas gerais sobre hackathons.
 - https://github.com/iamraphson/adonisjs-hackathon-starter
 - https://github.com/gothinkster/realworld
 - https://github.com/geekcamp-ph/awesome-hackathon-starters
+- https://github.com/melvin0008/awesome-projects-boilerplates
 
 ## Fornecedores de serviços
 - https://github.com/twilio/hackathons
